@@ -20,3 +20,67 @@ The programming exercises in Machine Learning Crash Course use the pandas librar
 Key Concepts and Tools
 
 Machine Learning Crash Course discusses and applies the following concepts and tools. For more information, see the linked resources.
+
+
+Python Programming
+Basic Python
+
+The following Python basics are covered in The Python Tutorial:
+
+    Defining and calling functions, using positional and keyword parameters
+
+    Dictionaries, lists, sets (creating, accessing, and iterating)
+
+    for loops, for loops with multiple iterator variables (e.g., for a, b in [(1,2), (3,4)])
+
+    if/else conditional blocks and conditional expressions
+
+    String formatting (e.g., '%.2f' % 3.14)
+
+    Variables, assignment, basic data types (int, float, bool, str)
+
+    The pass statement
+
+Intermediate Python
+
+The following more advanced Python features are also covered in The Python Tutorial:
+
+    List comprehensions
+    Lambda functions
+
+Third-Party Python Libraries
+
+Machine Learning Crash Course code examples use the following features from third-party libraries. Prior familiarity with these libraries is not necessary; you can look up what you need to know when you need it.
+Matplotlib (for data visualization)
+
+    pyplot module
+    cm module
+    gridspec module
+
+Seaborn (for heatmaps)
+
+    heatmap function
+
+pandas (for data manipulation)
+
+    DataFrame class
+
+NumPy (for low-level math operations)
+
+    linspace function
+    random function
+    array function
+    arange function
+
+scikit-learn (for evaluation metrics)
+
+    metrics module
+
+Bash Terminal / Cloud Console
+
+To run the programming exercises on your local machine or in a cloud console, you should be comfortable working on the command line:
+
+    Bash Reference Manual
+    Bash Cheatsheet
+    Learn Shell
+
